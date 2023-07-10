@@ -1,0 +1,29 @@
+.AdFour__main{
+    height: 380px;
+    width: 355px;
+    background: white;
+    margin: 10px;
+}
+
+.AdFour__header {
+    font-size: 21px;
+    line-height: 27px;
+    font-weight: bold;
+    padding: 15px;
+}
+
+.AdFour__body {
+    padding-left: 15px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.AdFour__footer {
+    padding: 15px;
+}
+
+.ad_fourimage {
+    width: 135px;
+    height: 100px;
+    margin: 10px;
+}

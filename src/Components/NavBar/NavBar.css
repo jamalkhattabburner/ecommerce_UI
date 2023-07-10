@@ -1,0 +1,125 @@
+.navbar__component {
+    width: 100vw;
+    height: 60px;
+    background-color: #131A22;
+    display: flex;
+}
+
+.navbar__logo {
+    background: url('https://ik.imagekit.io/ewkxvskykt/amazon-image/sprite_350x.png?updatedAt=1684037289354') no-repeat -9px -50px;
+    width: 98px;
+    height: 31px;
+    margin: 18px;
+}
+
+.navbar__locator {
+    display: flex;
+    margin: 20px 0px;
+}
+.navbar__locationImage {
+    background: url('https://ik.imagekit.io/ewkxvskykt/amazon-image/sprite_350x.png?updatedAt=1684037289354') no-repeat -70px -378px;
+    width: 16px;
+    height: 18px;
+}
+
+.navbar__location {
+    color: white;
+    font-weight: bold;
+    margin-left: 5px;
+}
+
+.navbar__dropdown {
+    width: 60px;
+    height: 44px;
+    margin-top: 8px;
+    background-color: #e6e5e5;
+    border-radius: 5px 0px 0px 5px;
+    text-align-last: center;
+}
+
+.navbar__serachbox {
+    width: 640px;
+    height: 38px;
+    margin-top: 8px;
+}
+
+.navbar__searchcomponent {
+    display: flex;
+    margin-left: 23px;
+}
+
+.navbar__searchicon {
+    background: url('https://ik.imagekit.io/ewkxvskykt/amazon-image/sprite_350x.png?updatedAt=1684037289354') no-repeat -9px -289px;
+    width: 23px;
+    height: 23px;
+    margin: 12px;
+}
+
+.navbar__serachboxdiv {
+    height: 44px;
+    width: 48px;
+    margin-top: 8px;
+    border-radius: 0px 5px 5px 0px;
+    background-color: #FEBE68;
+}
+
+.navbar__text {
+    color: white;
+}
+
+.navbar__signin {
+    width: 120px;
+    margin-top: 10px;
+    margin-left: 50px;
+}
+
+.navbar__returns {
+    width: 80px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.navbar__cart {
+    display: flex;
+    margin-top: 10px;
+}
+
+.cart__image{
+    background: url('https://ik.imagekit.io/ewkxvskykt/amazon-image/sprite_350x.png?updatedAt=1684037289354') no-repeat -217px -336px;
+    width: 40px;
+    height: 28px; 
+}
+
+.navbar__text__cart{
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+.cart__item {
+    font-weight: bold;
+    position: relative;
+    left: -21px;
+    top: -3px;
+    color: #F08805;
+}
+
+.navbar__footer { 
+    width: 100vw;
+    height: 50px;
+    background-color: #22303E;
+    color: white;
+    display: flex;
+}
+
+.navbar__footer_text {
+    margin: 15px 10px;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.navbar__footer_downloadappimg {
+    background: url('https://ik.imagekit.io/ewkxvskykt/amazon-image/gaming-swm._CB430661085_.jpg?updatedAt=1684037287475') no-repeat;
+    width: 400px;
+    margin: 5px 10px;
+}
+
